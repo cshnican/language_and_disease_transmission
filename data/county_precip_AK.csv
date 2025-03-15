@@ -1,0 +1,31 @@
+ID,Name,State,Value,Anomaly (1925-2000 base period),Rank,1925-2000 Mean
+AK-013,Aleutians East Borough,Alaska,49.86,1.99,61,47.87
+AK-016,Aleutians West Census Area,Alaska,50.89,-13.37,17,64.26
+AK-020,Anchorage Municipality,Alaska,77.48,9.53,88,67.95
+AK-050,Bethel Census Area,Alaska,26,4.89,90,21.11
+AK-060,Bristol Bay Borough,Alaska,30.95,10.12,99,20.83
+AK-063,Chugach Census Area,Alaska,188.36,26.45,87,161.91
+AK-066,Copper River Census Area,Alaska,72.19,28.44,100,43.75
+AK-068,Denali Borough,Alaska,25.29,1.89,74,23.4
+AK-070,Dillingham Census Area,Alaska,43.22,9.93,97,33.29
+AK-090,Fairbanks North Star Borough,Alaska,14.15,-1.8,27,15.95
+AK-100,Haines Borough,Alaska,108.84,22.47,93,86.37
+AK-105,Hoonah-Angoon Census Area,Alaska,163.43,27.98,94,135.45
+AK-110,Juneau City and Borough,Alaska,214.12,47.21,95,166.91
+AK-122,Kenai Peninsula Borough,Alaska,61.37,-0.23,48,61.6
+AK-130,Ketchikan Gateway Borough,Alaska,166.92,12.27,71,154.65
+AK-150,Kodiak Island Borough,Alaska,70.19,7.49,78,62.7
+AK-158,Kusilvak Census Area,Alaska,24.12,5.14,90,18.98
+AK-164,Lake and Peninsula Borough,Alaska,45.35,10.06,98,35.29
+AK-170,Matanuska-Susitna Borough,Alaska,48.04,11.8,99,36.24
+AK-180,Nome Census Area,Alaska,19.1,2.99,83,16.11
+AK-185,North Slope Borough,Alaska,13.58,2.67,89,10.91
+AK-188,Northwest Arctic Borough,Alaska,18,3.01,86,14.99
+AK-195,Petersburg Borough,Alaska,184.23,4.75,60,179.48
+AK-198,Prince of Wales-Hyder Census Area,Alaska,120.75,3.56,62,117.19
+AK-220,Sitka City and Borough,Alaska,180.78,26.43,92,154.35
+AK-230,Skagway Municipality,Alaska,87.12,10.48,80,76.64
+AK-240,Southeast Fairbanks Census Area,Alaska,23.08,5.24,97,17.84
+AK-275,Wrangell City and Borough,Alaska,136.88,-4.23,38,141.11
+AK-282,Yakutat City and Borough,Alaska,238.69,36.1,86,202.59
+AK-290,Yukon-Koyukuk Census Area,Alaska,15.3,-0.05,47,15.35
