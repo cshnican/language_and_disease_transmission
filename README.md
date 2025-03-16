@@ -2,7 +2,7 @@
 
 Sihan Chen, Antonio Benítez-Burraco
 
-This Github repository contains the data, the code, the generated figures for the manuscript titled ''Linguistic diversity as a barrier to disease spread''.
+This Github repository contains the data, the code, the generated figures for the manuscript titled ''Linguistic diversity as a factor influencing disease spread''.
 
 ## data
 This folder contains all the dataset used in our analyses, ordered by their dataset number in Table S3 in Supplementary Information.
