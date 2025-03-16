@@ -1,4 +1,4 @@
-# Linguistic diversity as a barrier to disease spread
+# Linguistic diversity as a factor influencing disease spread
 
 Sihan Chen, Antonio Benítez-Burraco
 
